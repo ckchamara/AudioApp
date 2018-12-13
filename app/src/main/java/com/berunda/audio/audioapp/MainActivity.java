@@ -13,7 +13,7 @@ import com.google.android.exoplayer2.util.Util;
 
 public class MainActivity extends AppCompatActivity {
 
-    private PlayerView playerview;
+    //private PlayerView playerview;
     private PlayerControlView playerControlView;
 
     @Override
